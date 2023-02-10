@@ -1,4 +1,4 @@
-'''
+#Hace la sintaxis más sencilla y resumida para los diccionarios 
 dict = {}
 for i in range(1, 5):
   dict[i] = i * 2
@@ -18,9 +18,9 @@ print(population)
 
 population_v2 = { country: random.randint(1, 100)  for country in countries}
 print(population_v2)
-'''
-names = ['nico', 'zule', 'santi']
-ages = [12, 56, 98]
+
+names = ['Freddy', 'Andre', 'Gaby']
+ages = [31, 36, 1]
 
 print(list(zip(names, ages)))
 
