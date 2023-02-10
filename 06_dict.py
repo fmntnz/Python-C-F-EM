@@ -7,6 +7,6 @@ print(population_v2)
 result = { country: population for (country, population) in population_v2.items() if population > 50 }
 print(result)
 
-text = 'Hola, soy Freddy Montañez'
+text = 'Hola, soy Freddy Montañez '
 unique = { c: c.upper() for c in text if c in 'aeiou' }
 print(unique)
