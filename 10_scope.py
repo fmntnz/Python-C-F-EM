@@ -1,5 +1,5 @@
 price = 100 # global
-# result = 200
+result = 200
 
 def increment():
   price = 200
