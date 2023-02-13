@@ -1,9 +1,9 @@
-print('Hola')
+print('Fred')
 
 def my_print(text):
   print(text * 2)
 
-my_print('Este es my texto')
+my_print('This is my text')
 my_print('Hola')
 
 a = 10
