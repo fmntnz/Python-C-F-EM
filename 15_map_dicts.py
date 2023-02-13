@@ -8,7 +8,7 @@ items = [
     'price': 300
   },
   {
-    'product': 'pantalones 2',
+    'product': 'bermudas',
     'price': 200
   }
 ]
