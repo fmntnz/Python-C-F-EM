@@ -23,8 +23,8 @@ def check_rules(user_option, computer_option, user_wins, computer_wins):
   elif user_option == 'piedra':
     if computer_option == 'tijera':
       print('piedra gana a tijera')
-      print('user gano!')
-      user_wins += 1
+      print('user gano!') 
+      user_wins += 1 
     else:
       print('Papel gana a piedra')
       print('computer gano!')
