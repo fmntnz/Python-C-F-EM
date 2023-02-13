@@ -18,4 +18,4 @@ result = high_ord_func_v2(2, lambda x: x + 2)
 print(result)
 ## change
 result = high_ord_func_v2(2, lambda x: x * 5)
-print(result)
+print(result) 
